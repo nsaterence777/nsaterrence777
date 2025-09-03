@@ -30,7 +30,7 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://www.linkedin.com/in/therence-nsanzumuco-16b15879)  
+[![LinkedIn](www.linkedin.com/in/therence-nsanzumuco-16b15879)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsaterrence777@gmail.com)  
 
 ---
